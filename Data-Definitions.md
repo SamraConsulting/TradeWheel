@@ -2,30 +2,30 @@
 
 Here the data definitions to be used in the smart contracts:
 
-Agreements:
-{
-    id:uint32
-    owners:[address,address..],
-    ipfs: address,
-    escrow: uint256,
-    epochend: uint256,
-    status: integer,                        
-}
+Agreements:  
+{. 
+    id:uint32. 
+    owners:[address,address..],  
+    ipfs: address,  
+    escrow: uint256,  
+    epochend: uint256,  
+    status: integer,                         
+}. 
 
-The Status can have the following values:
-- 0=draft,
-- 1=partially signed
-- 2=fully signed
-- 3= Arbitration
-- 9= Completed
+The Status can have the following values: 
+- 0=draft,  
+- 1=partially signed. 
+- 2=fully signed. 
+- 3= Arbitration. 
+- 9= Completed. 
 
-Users: {
-    address: address
-    country: bytes,
-    eccpublickey: bytesarray,
-    kyberpublickey: bytesarray,
-}
-country is the country code of the user to apply the governing law in case that all the parties are in the same country.
+Users: {  
+    address: address,  
+    country: bytes,  
+    eccpublickey: bytesarray,  
+    kyberpublickey: bytesarray,  
+}  
+country is the country code of the user to apply the governing law in case that all the parties are in the same country. 
 
 Settings:
 {
