@@ -164,14 +164,4 @@ The encryption library will be developed in Javascript/Typescript to be easily u
 Each milestone includes proper documentation for installation and running the modules.
 
 
-Team:
-Samuele Landi – Senior Blockchain/Backend Developer, Cyber Security Expert.
-https://github.com/samuelelandi
-40 years in experience in software developing, system management and cyber security.
-
-Danila Morrel – Senior UI developer with 7 years of experience.
-https://github.com/devband777
-
-Public Relations:
-Laura Gallorini – Journalist with 25 years of experience.
 
