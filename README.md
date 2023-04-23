@@ -75,7 +75,21 @@ If an arbitrator makes xx decisions in contrast with the result, his/her ranking
 The arbitrator is rewarded with a percentage on the amount of the funds in escrow account.
 In case of different amounts between the winning arbitrators, the average will be computed and applied.
 
- 
+Agreement Templates:
+Contributors may contribute with agreement templates to be used on the platform and rewarded every time a template is used.
+The contributors may be requested to stake some funds to guarantee they are authors of the templates loaded. 
+Here the upload process:
+ 
+<img width="286" alt="image" src="https://user-images.githubusercontent.com/131534405/233820643-30e432b0-5846-4814-b6e7-cd5489cc6fcb.png">
+
+The selection and reward process:
+
+ <img width="452" alt="image" src="https://user-images.githubusercontent.com/131534405/233820644-aae67c9e-4234-45f1-a12d-b8a13d4218a9.png">
+
+
+In case of claim of copyright violation from a third part an arbitration procedure will be open. The stake may be used to cover the expensed of arbitration procedure.
+The third part claiming a copyright violation may be requested to deposit some funds to open the arbitration. In case of win the funds will be returned.
+
 
 ## Encryption:
 
