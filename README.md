@@ -148,6 +148,8 @@ The protocol is rewarded by:
 -	Fees on the arbitration.
 The fees are changeable on the smart contracts from the owner.
 
+## Data Definitions:
+The data to be stored on chain is described in this document ![Data Definitions](Data-Definitions.md).
 
 ## Milestones:
 
